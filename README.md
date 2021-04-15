@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IliaCode
-- 👀 I’m interested in creating application's 
-- 🌱 I’m currently learning c++ and algorithm's 
+- 👀 I’m interested in creating applications 
+- 🌱 I’m currently learning c++ and algorithms 
 - 💞️ Who also is interested to do something interesting text me
 - 🌎 Lives in U<strike>S</strike>A
