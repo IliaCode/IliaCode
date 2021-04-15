@@ -2,3 +2,4 @@
 - 👀 I’m interested in creating application's 
 - 🌱 I’m currently learning c++ and algorithm's 
 - 💞️ Who also is interested to do something interesting text me
+- 🌎 Lives in U <strike>S</strike> A
